@@ -1,0 +1,569 @@
+[
+    {
+        "plate_code": 1,
+        "name": "Adana",
+        "region": "Akdeniz",
+        "famous_for": "Kebap, pamuk, Taşköprü, Çukurova",
+        "svg_id": "TR01"
+    },
+    {
+        "plate_code": 2,
+        "name": "Adıyaman",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Nemrut Dağı, heykeller, çiğ köfte",
+        "svg_id": "TR02"
+    },
+    {
+        "plate_code": 3,
+        "name": "Afyonkarahisar",
+        "region": "Ege",
+        "famous_for": "Sucuk, lokum, haşhaş, termal kaplıcalar",
+        "svg_id": "TR03"
+    },
+    {
+        "plate_code": 4,
+        "name": "Ağrı",
+        "region": "Doğu Anadolu",
+        "famous_for": "Ağrı Dağı, İshak Paşa Sarayı",
+        "svg_id": "TR04"
+    },
+    {
+        "plate_code": 5,
+        "name": "Amasya",
+        "region": "Karadeniz",
+        "famous_for": "Misket elması, Kral Kaya Mezarları, şehzadeler şehri",
+        "svg_id": "TR05"
+    },
+    {
+        "plate_code": 6,
+        "name": "Ankara",
+        "region": "İç Anadolu",
+        "famous_for": "Başkent, Anıtkabir, Ankara Kalesi, tiftik keçisi",
+        "svg_id": "TR06"
+    },
+    {
+        "plate_code": 7,
+        "name": "Antalya",
+        "region": "Akdeniz",
+        "famous_for": "Turizm, Kaleiçi, Düden Şelalesi, portakal",
+        "svg_id": "TR07"
+    },
+    {
+        "plate_code": 8,
+        "name": "Artvin",
+        "region": "Karadeniz",
+        "famous_for": "Karagöl, Kafkasör boğa güreşleri, sarp vadiler",
+        "svg_id": "TR08"
+    },
+    {
+        "plate_code": 9,
+        "name": "Aydın",
+        "region": "Ege",
+        "famous_for": "Kuru incir, Kuşadası, Didim antik kentleri",
+        "svg_id": "TR09"
+    },
+    {
+        "plate_code": 10,
+        "name": "Balıkesir",
+        "region": "Marmara",
+        "famous_for": "Ayvalık tostu, zeytin, Manyas Kuş Cenneti",
+        "svg_id": "TR10"
+    },
+    {
+        "plate_code": 11,
+        "name": "Bilecik",
+        "region": "Marmara",
+        "famous_for": "Şeyh Edebali Türbesi, mermer, kuruluş şehri",
+        "svg_id": "TR11"
+    },
+    {
+        "plate_code": 12,
+        "name": "Bingöl",
+        "region": "Doğu Anadolu",
+        "famous_for": "Yüzen adalar, çoban böreği, bal",
+        "svg_id": "TR12"
+    },
+    {
+        "plate_code": 13,
+        "name": "Bitlis",
+        "region": "Doğu Anadolu",
+        "famous_for": "Nemrut Krater Gölü, büryan kebabı, Ahlat mezar taşları",
+        "svg_id": "TR13"
+    },
+    {
+        "plate_code": 14,
+        "name": "Bolu",
+        "region": "Karadeniz",
+        "famous_for": "Abant Gölü, Yedigöller, Mengen aşçıları",
+        "svg_id": "TR14"
+    },
+    {
+        "plate_code": 15,
+        "name": "Burdur",
+        "region": "Akdeniz",
+        "famous_for": "Salda Gölü, İnsuyu Mağarası, ceviz ezmesi",
+        "svg_id": "TR15"
+    },
+    {
+        "plate_code": 16,
+        "name": "Bursa",
+        "region": "Marmara",
+        "famous_for": "İskender kebap, Uludağ, Yeşil Türbe, kestane şekeri",
+        "svg_id": "TR16"
+    },
+    {
+        "plate_code": 17,
+        "name": "Çanakkale",
+        "region": "Marmara",
+        "famous_for": "Şehitler Abidesi, Truva Atı, Aynalı Çarşı",
+        "svg_id": "TR17"
+    },
+    {
+        "plate_code": 18,
+        "name": "Çankırı",
+        "region": "İç Anadolu",
+        "famous_for": "Kaya tuzu mağarası, tuz lambası",
+        "svg_id": "TR18"
+    },
+    {
+        "plate_code": 19,
+        "name": "Çorum",
+        "region": "Karadeniz",
+        "famous_for": "Meşhur leblebi, Hitit başkenti Hattuşaş",
+        "svg_id": "TR19"
+    },
+    {
+        "plate_code": 20,
+        "name": "Denizli",
+        "region": "Ege",
+        "famous_for": "Pamukkale travertenleri, Denizli horozu, tekstil",
+        "svg_id": "TR20"
+    },
+    {
+        "plate_code": 21,
+        "name": "Diyarbakır",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Tarihi surlar, Hevsel Bahçeleri, karpuz, On Gözlü Köprü",
+        "svg_id": "TR21"
+    },
+    {
+        "plate_code": 22,
+        "name": "Edirne",
+        "region": "Marmara",
+        "famous_for": "Selimiye Camii, tava ciğer, Kırkpınar yağlı güreşleri",
+        "svg_id": "TR22"
+    },
+    {
+        "plate_code": 23,
+        "name": "Elazığ",
+        "region": "Doğu Anadolu",
+        "famous_for": "Harput Kalesi, Çayda Çıra, vişne mermeri",
+        "svg_id": "TR23"
+    },
+    {
+        "plate_code": 24,
+        "name": "Erzincan",
+        "region": "Doğu Anadolu",
+        "famous_for": "Tulum peyniri, bakırcılık, Girlevik Şelalesi",
+        "svg_id": "TR24"
+    },
+    {
+        "plate_code": 25,
+        "name": "Erzurum",
+        "region": "Doğu Anadolu",
+        "famous_for": "Cağ kebabı, Palandöken kayak merkezi, Çifte Minareli Medrese",
+        "svg_id": "TR25"
+    },
+    {
+        "plate_code": 26,
+        "name": "Eskişehir",
+        "region": "İç Anadolu",
+        "famous_for": "Lületaşı, çiğbörek, Porsuk Çayı, Odunpazarı evleri",
+        "svg_id": "TR26"
+    },
+    {
+        "plate_code": 27,
+        "name": "Gaziantep",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Baklava, Zeugma Mozaik Müzesi, fıstık, mutfak kültürü",
+        "svg_id": "TR27"
+    },
+    {
+        "plate_code": 28,
+        "name": "Giresun",
+        "region": "Karadeniz",
+        "famous_for": "Fındık, Giresun Kalesi, Giresun Adası",
+        "svg_id": "TR28"
+    },
+    {
+        "plate_code": 29,
+        "name": "Gümüşhane",
+        "region": "Karadeniz",
+        "famous_for": "Pestil, köme, Karaca Mağarası",
+        "svg_id": "TR29"
+    },
+    {
+        "plate_code": 30,
+        "name": "Hakkari",
+        "region": "Doğu Anadolu",
+        "famous_for": "Cilo Dağları, buzullar, ters lale",
+        "svg_id": "TR30"
+    },
+    {
+        "plate_code": 31,
+        "name": "Hatay",
+        "region": "Akdeniz",
+        "famous_for": "Künefe, zengin gastronomi, Habib-i Neccar Camii",
+        "svg_id": "TR31"
+    },
+    {
+        "plate_code": 32,
+        "name": "Isparta",
+        "region": "Akdeniz",
+        "famous_for": "Gül yetiştiriciliği, lavanta bahçeleri, halı",
+        "svg_id": "TR32"
+    },
+    {
+        "plate_code": 33,
+        "name": "Mersin",
+        "region": "Akdeniz",
+        "famous_for": "Tantuni, Kızkalesi, narenciye, liman",
+        "svg_id": "TR33"
+    },
+    {
+        "plate_code": 34,
+        "name": "İstanbul",
+        "region": "Marmara",
+        "famous_for": "Boğaz köprüleri, Ayasofya, Kız Kulesi, Topkapı Sarayı",
+        "svg_id": "TR34"
+    },
+    {
+        "plate_code": 35,
+        "name": "İzmir",
+        "region": "Ege",
+        "famous_for": "Saat Kulesi, Kordon, boyoz, Efes Antik Kenti",
+        "svg_id": "TR35"
+    },
+    {
+        "plate_code": 36,
+        "name": "Kars",
+        "region": "Doğu Anadolu",
+        "famous_for": "Kars kaşarı, Ani Harabeleri, Çıldır Gölü, kaz eti",
+        "svg_id": "TR36"
+    },
+    {
+        "plate_code": 37,
+        "name": "Kastamonu",
+        "region": "Karadeniz",
+        "famous_for": "Taşköprü sarımsağı, Ilgaz Dağı, kuyu kebabı",
+        "svg_id": "TR37"
+    },
+    {
+        "plate_code": 38,
+        "name": "Kayseri",
+        "region": "İç Anadolu",
+        "famous_for": "Mantı, pastırma, sucuk, Erciyes Dağı",
+        "svg_id": "TR38"
+    },
+    {
+        "plate_code": 39,
+        "name": "Kırklareli",
+        "region": "Marmara",
+        "famous_for": "İğneada Longoz Ormanları, peynir, Dupnisa Mağarası",
+        "svg_id": "TR39"
+    },
+    {
+        "plate_code": 40,
+        "name": "Kırşehir",
+        "region": "İç Anadolu",
+        "famous_for": "Ahi Evran, Cacabey Medresesi, Neşet Ertaş",
+        "svg_id": "TR40"
+    },
+    {
+        "plate_code": 41,
+        "name": "Kocaeli",
+        "region": "Marmara",
+        "famous_for": "Pişmaniye, sanayi başkenti, Kartepe",
+        "svg_id": "TR41"
+    },
+    {
+        "plate_code": 42,
+        "name": "Konya",
+        "region": "İç Anadolu",
+        "famous_for": "Mevlana Müzesi, etli ekmek, en büyük yüzölçümü",
+        "svg_id": "TR42"
+    },
+    {
+        "plate_code": 43,
+        "name": "Kütahya",
+        "region": "Ege",
+        "famous_for": "Çini ve porselen sanatı, Dumlupınar",
+        "svg_id": "TR43"
+    },
+    {
+        "plate_code": 44,
+        "name": "Malatya",
+        "region": "Doğu Anadolu",
+        "famous_for": "Kayısı, Battalgazi, Arslantepe Höyüğü",
+        "svg_id": "TR44"
+    },
+    {
+        "plate_code": 45,
+        "name": "Manisa",
+        "region": "Ege",
+        "famous_for": "Mesir macunu, Spil Dağı, Sultaniye üzümü",
+        "svg_id": "TR45"
+    },
+    {
+        "plate_code": 46,
+        "name": "Kahramanmaraş",
+        "region": "Akdeniz",
+        "famous_for": "Dövme dondurma, tarhana, biber",
+        "svg_id": "TR46"
+    },
+    {
+        "plate_code": 47,
+        "name": "Mardin",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Taş evler, Deyrulzafaran Manastırı, telkari gümüş",
+        "svg_id": "TR47"
+    },
+    {
+        "plate_code": 48,
+        "name": "Muğla",
+        "region": "Ege",
+        "famous_for": "Bodrum, Marmaris, Ölüdeniz, Fethiye koyları",
+        "svg_id": "TR48"
+    },
+    {
+        "plate_code": 49,
+        "name": "Muş",
+        "region": "Doğu Anadolu",
+        "famous_for": "Muş ovası, lalesi, tarihi Murat Köprüsü",
+        "svg_id": "TR49"
+    },
+    {
+        "plate_code": 50,
+        "name": "Nevşehir",
+        "region": "İç Anadolu",
+        "famous_for": "Kapadokya, Peri Bacaları, sıcak hava balonları",
+        "svg_id": "TR50"
+    },
+    {
+        "plate_code": 51,
+        "name": "Niğde",
+        "region": "İç Anadolu",
+        "famous_for": "Patates üretimi, Aladağlar, elma",
+        "svg_id": "TR51"
+    },
+    {
+        "plate_code": 52,
+        "name": "Ordu",
+        "region": "Karadeniz",
+        "famous_for": "Fındık, Boztepe, teleferik, yaylalar",
+        "svg_id": "TR52"
+    },
+    {
+        "plate_code": 53,
+        "name": "Rize",
+        "region": "Karadeniz",
+        "famous_for": "Çay bahçeleri, Ayder Yaylası, Kaçkar Dağları",
+        "svg_id": "TR53"
+    },
+    {
+        "plate_code": 54,
+        "name": "Sakarya",
+        "region": "Marmara",
+        "famous_for": "Sapanca Gölü, ıslama köfte, kabak tatlısı",
+        "svg_id": "TR54"
+    },
+    {
+        "plate_code": 55,
+        "name": "Samsun",
+        "region": "Karadeniz",
+        "famous_for": "Bandırma Vapuru, Atatürk Anıtı, pidesi",
+        "svg_id": "TR55"
+    },
+    {
+        "plate_code": 56,
+        "name": "Siirt",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Büryan kebabı, Siirt battaniyesi, fıstık",
+        "svg_id": "TR56"
+    },
+    {
+        "plate_code": 57,
+        "name": "Sinop",
+        "region": "Karadeniz",
+        "famous_for": "Tarihi cezaevi, Hamsilos Koyu, Türkiye'nin en kuzey ucu",
+        "svg_id": "TR57"
+    },
+    {
+        "plate_code": 58,
+        "name": "Sivas",
+        "region": "İç Anadolu",
+        "famous_for": "Kangal köpeği, Divriği Ulu Camii, Sivas köftesi",
+        "svg_id": "TR58"
+    },
+    {
+        "plate_code": 59,
+        "name": "Tekirdağ",
+        "region": "Marmara",
+        "famous_for": "Tekirdağ köftesi, kiraz festivali, üzüm bağları",
+        "svg_id": "TR59"
+    },
+    {
+        "plate_code": 60,
+        "name": "Tokat",
+        "region": "Karadeniz",
+        "famous_for": "Tokat kebabı, asma yaprağı, Ballıca Mağarası",
+        "svg_id": "TR60"
+    },
+    {
+        "plate_code": 61,
+        "name": "Trabzon",
+        "region": "Karadeniz",
+        "famous_for": "Sümela Manastırı, hamsi, Uzungöl, horon",
+        "svg_id": "TR61"
+    },
+    {
+        "plate_code": 62,
+        "name": "Tunceli",
+        "region": "Doğu Anadolu",
+        "famous_for": "Munzur Vadisi Milli Parkı, Munzur Gözeleri",
+        "svg_id": "TR62"
+    },
+    {
+        "plate_code": 63,
+        "name": "Şanlıurfa",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Balıklıgöl, Göbeklitepe, sıra gecesi, çiğ köfte",
+        "svg_id": "TR63"
+    },
+    {
+        "plate_code": 64,
+        "name": "Uşak",
+        "region": "Ege",
+        "famous_for": "Uşak halısı, Karun Hazineleri, Ulubey Kanyonu",
+        "svg_id": "TR64"
+    },
+    {
+        "plate_code": 65,
+        "name": "Van",
+        "region": "Doğu Anadolu",
+        "famous_for": "Van Gölü, Akdamar Adası, Van kedisi, kahvaltısı",
+        "svg_id": "TR65"
+    },
+    {
+        "plate_code": 66,
+        "name": "Yozgat",
+        "region": "İç Anadolu",
+        "famous_for": "Testi kebabı, Çamlık Milli Parkı",
+        "svg_id": "TR66"
+    },
+    {
+        "plate_code": 67,
+        "name": "Zonguldak",
+        "region": "Karadeniz",
+        "famous_for": "Karaelmas maden ocakları, taş kömürü",
+        "svg_id": "TR67"
+    },
+    {
+        "plate_code": 68,
+        "name": "Aksaray",
+        "region": "İç Anadolu",
+        "famous_for": "Ihlara Vadisi, Sultanhanı Kervansarayı",
+        "svg_id": "TR68"
+    },
+    {
+        "plate_code": 69,
+        "name": "Bayburt",
+        "region": "Karadeniz",
+        "famous_for": "Bayburt Kalesi, Baksı Müzesi, Çoruh Nehri",
+        "svg_id": "TR69"
+    },
+    {
+        "plate_code": 70,
+        "name": "Karaman",
+        "region": "İç Anadolu",
+        "famous_for": "Türkçenin başkenti, elma üretimi, Karaman Kalesi",
+        "svg_id": "TR70"
+    },
+    {
+        "plate_code": 71,
+        "name": "Kırıkkale",
+        "region": "İç Anadolu",
+        "famous_for": "Silah sanayisi, MKE Müzesi, Çeşnigir Köprüsü",
+        "svg_id": "TR71"
+    },
+    {
+        "plate_code": 72,
+        "name": "Batman",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Hasankeyf, petrol rafinerisi, Malabadi Köprüsü yakını",
+        "svg_id": "TR72"
+    },
+    {
+        "plate_code": 73,
+        "name": "Şırnak",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Cudi Dağı, Kasrik Boğazı",
+        "svg_id": "TR73"
+    },
+    {
+        "plate_code": 74,
+        "name": "Bartın",
+        "region": "Karadeniz",
+        "famous_for": "Amasra, İnkumu Plajı, ahşap tekne yapımı",
+        "svg_id": "TR74"
+    },
+    {
+        "plate_code": 75,
+        "name": "Ardahan",
+        "region": "Doğu Anadolu",
+        "famous_for": "Damal Atatürk silüeti, Çıldır Gölü kıyısı, kaşar",
+        "svg_id": "TR75"
+    },
+    {
+        "plate_code": 76,
+        "name": "Iğdır",
+        "region": "Doğu Anadolu",
+        "famous_for": "Mikroklima iklimi, kayısı bahçeleri, üç ülkeye sınır",
+        "svg_id": "TR76"
+    },
+    {
+        "plate_code": 77,
+        "name": "Yalova",
+        "region": "Marmara",
+        "famous_for": "Yürüyen Köşk, termal kaplıcalar, süs bitkileri",
+        "svg_id": "TR77"
+    },
+    {
+        "plate_code": 78,
+        "name": "Karabük",
+        "region": "Karadeniz",
+        "famous_for": "Safranbolu evleri, demir çelik fabrikası",
+        "svg_id": "TR78"
+    },
+    {
+        "plate_code": 79,
+        "name": "Kilis",
+        "region": "Güneydoğu Anadolu",
+        "famous_for": "Kilis tavası, zeytinyağı, Ravanda Kalesi",
+        "svg_id": "TR79"
+    },
+    {
+        "plate_code": 80,
+        "name": "Osmaniye",
+        "region": "Akdeniz",
+        "famous_for": "Yer fıstığı, Karatepe-Aslantaş Milli Parkı",
+        "svg_id": "TR80"
+    },
+    {
+        "plate_code": 81,
+        "name": "Düzce",
+        "region": "Karadeniz",
+        "famous_for": "Güzeldere Şelalesi, Akçakoca, fındık",
+        "svg_id": "TR81"
+    }
+]

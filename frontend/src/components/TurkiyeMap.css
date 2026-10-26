@@ -1,0 +1,58 @@
+.turkey-map-container {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.turkey-svg {
+    width: 100%;
+    height: auto;
+    filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.08));
+}
+
+/*iller*/
+.city-path {
+    fill: #eecdd6;
+    stroke: #ffffff;
+    stroke-width: 1;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+/*hover*/
+.city-path:hover {
+    fill: #a90432;
+    filter: brightness(1.05);
+}
+
+.city-path.correct {
+    fill: #22c55e !important;
+}
+
+.city-path.wrong {
+    fill: #ef4444 !important;
+}
+
+/* hedef il (coktan secmeli) */
+.city-path.highlighted {
+    fill: #fdb912 !important;
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.6;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}

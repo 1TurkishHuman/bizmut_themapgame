@@ -1,0 +1,27 @@
+# Python & Sanal Ortamlar
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Node.js & React
+node_modules/
+dist/
+build/
+.npm
+
+# Docker
+.docker/
+
+# IDE & Editör Dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# İşletim Sistemi Kalıntıları
+.DS_Store
+Thumbs.db
